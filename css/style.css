@@ -1,3 +1,28 @@
+
 body {
-    text-align: center;
+	text-align: center;
+}
+
+.reset-button {
+	margin: auto;
+	background-color: black;
+	width: 200px;
+	border-radius: 15px;
+	-webkit-transition: background-color 1s ease-out;
+	-moz-transition: background-color 1s ease-out;
+	-o-transition: background-color 1s ease-out;
+	transition: background-color 1s ease-out;
+}
+
+.reset-button:hover {
+	background-color: grey;
+	cursor: pointer;
+}
+
+#reset {
+	color: white;
+	font: Arial;
+	font-size: 2.3em;
+	text-decoration: none;
+	padding: 0 50px 0 55px;
 }
