@@ -1,6 +1,9 @@
-frontend-nanodegree-arcade-game
-===============================
+Open the index file to start the game.
+--------------------------------------
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+Use the arrow keys to move the player character around.
 
-for self-checking their submission.
+When you hit the water or collect a gem you get points.
+
+When you are out of lives press the restart button on the
+bottom of the page to restart the game.
